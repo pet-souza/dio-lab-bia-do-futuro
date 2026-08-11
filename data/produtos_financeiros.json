@@ -38,5 +38,157 @@
     "rentabilidade": "Variável",
     "aporte_minimo": 100.00,
     "indicado_para": "Perfil arrojado com foco no longo prazo"
+  },
+  {
+    "nome": "Tesouro IPCA+",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "IPCA + taxa fixa",
+    "aporte_minimo": 30.00,
+    "indicado_para": "Proteção contra inflação e objetivos de longo prazo"
+  },
+  {
+    "nome": "Tesouro Prefixado",
+    "categoria": "renda_fixa",
+    "risco": "medio",
+    "rentabilidade": "Taxa fixa definida no momento da compra",
+    "aporte_minimo": 30.00,
+    "indicado_para": "Quem acredita na queda dos juros e busca previsibilidade"
+  },
+  {
+    "nome": "CDB Prefixado",
+    "categoria": "renda_fixa",
+    "risco": "medio",
+    "rentabilidade": "Taxa fixa anual",
+    "aporte_minimo": 500.00,
+    "indicado_para": "Objetivos com prazo definido e previsibilidade"
+  },
+  {
+    "nome": "Debêntures",
+    "categoria": "renda_fixa",
+    "risco": "alto",
+    "rentabilidade": "Taxa fixa ou CDI + spread",
+    "aporte_minimo": 1000.00,
+    "indicado_para": "Investidores que aceitam risco maior em troca de retorno superior"
+  },
+  {
+    "nome": "Debêntures Incentivadas",
+    "categoria": "renda_fixa",
+    "risco": "medio",
+    "rentabilidade": "IPCA + taxa fixa",
+    "aporte_minimo": 1000.00,
+    "indicado_para": "Longo prazo com isenção de IR"
+  },
+  {
+    "nome": "Fundo Imobiliário (FII)",
+    "categoria": "fundo",
+    "risco": "medio",
+    "rentabilidade": "Dividendos mensais + valorização",
+    "aporte_minimo": 10.00,
+    "indicado_para": "Quem busca renda passiva e diversificação"
+  },
+  {
+    "nome": "Fundo Cambial",
+    "categoria": "fundo",
+    "risco": "alto",
+    "rentabilidade": "Variação do dólar",
+    "aporte_minimo": 500.00,
+    "indicado_para": "Proteção contra desvalorização da moeda local"
+  },
+  {
+    "nome": "ETF de Renda Fixa",
+    "categoria": "etf",
+    "risco": "medio",
+    "rentabilidade": "Varia conforme índice de títulos públicos",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Diversificação automática em títulos"
+  },
+  {
+    "nome": "ETF de Ações",
+    "categoria": "etf",
+    "risco": "alto",
+    "rentabilidade": "Varia conforme índice de ações",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Exposição ampla ao mercado com baixo custo"
+  },
+  {
+    "nome": "Ações Blue Chips",
+    "categoria": "renda_variavel",
+    "risco": "alto",
+    "rentabilidade": "Variável",
+    "aporte_minimo": 50.00,
+    "indicado_para": "Investidores que buscam crescimento no longo prazo"
+  },
+  {
+    "nome": "Small Caps",
+    "categoria": "renda_variavel",
+    "risco": "alto",
+    "rentabilidade": "Variável e volátil",
+    "aporte_minimo": 50.00,
+    "indicado_para": "Investidores arrojados buscando alto potencial de valorização"
+  },
+  {
+    "nome": "COE (Operação Estruturada)",
+    "categoria": "estruturado",
+    "risco": "medio",
+    "rentabilidade": "Condicional ao cenário do mercado",
+    "aporte_minimo": 1000.00,
+    "indicado_para": "Quem busca proteção parcial com chance de retorno maior"
+  },
+  {
+    "nome": "Previdência Privada (PGBL)",
+    "categoria": "previdencia",
+    "risco": "medio",
+    "rentabilidade": "Variável conforme fundo escolhido",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Quem faz declaração completa e busca benefício fiscal"
+  },
+  {
+    "nome": "Previdência Privada (VGBL)",
+    "categoria": "previdencia",
+    "risco": "medio",
+    "rentabilidade": "Variável conforme fundo escolhido",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Quem faz declaração simplificada ou quer acumular patrimônio"
+  },
+  {
+    "nome": "Criptoativos (Exposição via Fundo)",
+    "categoria": "alternativos",
+    "risco": "alto",
+    "rentabilidade": "Alta volatilidade",
+    "aporte_minimo": 500.00,
+    "indicado_para": "Investidores experientes buscando diversificação alternativa"
+  },
+  {
+    "nome": "Fundo de Dividendos",
+    "categoria": "fundo",
+    "risco": "medio",
+    "rentabilidade": "Variável com foco em empresas que distribuem lucros",
+    "aporte_minimo": 200.00,
+    "indicado_para": "Quem busca renda recorrente no longo prazo"
+  },
+  {
+    "nome": "Fundo Long & Short",
+    "categoria": "fundo",
+    "risco": "medio",
+    "rentabilidade": "CDI + estratégia de arbitragem",
+    "aporte_minimo": 1000.00,
+    "indicado_para": "Investidores moderados buscando retorno com menor volatilidade"
+  },
+  {
+    "nome": "ETF Internacional",
+    "categoria": "etf",
+    "risco": "alto",
+    "rentabilidade": "Varia conforme índice global",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Diversificação internacional com baixo custo"
+  },
+  {
+    "nome": "Fundo de Ouro",
+    "categoria": "fundo",
+    "risco": "alto",
+    "rentabilidade": "Varia conforme cotação do ouro",
+    "aporte_minimo": 500.00,
+    "indicado_para": "Proteção em cenários de crise"
   }
 ]
