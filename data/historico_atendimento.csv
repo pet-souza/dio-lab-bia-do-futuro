@@ -16,7 +16,7 @@ data,canal,tema,resumo,resolvido
 01-12-2025,telefone,Ações,Cliente pediu ajuda para interpretar o relatório de análise,sim
 05-12-2025,bater papo,ETF,Cliente perguntou sobre ETFs de renda fixa e exposição internacional,sim
 12-12-2025,e-mail,Criptomoedas,Cliente solicitou orientação sobre riscos e volatilidade,sim
-20-12-2025,bater papo,planejamento financeiro,Cliente revisou metas para 2026 e pediu ajustes no orçamento,sim
+20-12-2025,bater papo,Planejamento,Cliente revisou metas para 2026 e pediu ajustes no orçamento,sim
 04-01-2026,telefone,Tesouro IPCA,Cliente pediu simulação de rentabilidade para longo prazo,sim
 10-01-2026,e-mail,COE,Cliente buscou informações sobre proteção parcial do capital,sim
 18-01-2026,bater papo,Dividendos,Cliente quis entender calendário e periodicidade de pagamentos,sim
@@ -27,7 +27,7 @@ data,canal,tema,resumo,resolvido
 22-02-2026,e-mail,Transferência de custódia,Cliente solicitou orientação para mover ativos entre corretoras,sim
 01-03-2026,bater papo,Reserva de oportunidade,Cliente perguntou como montar caixa para aproveitar quedas do mercado,sim
 08-03-2026,telefone,IPOs,Cliente pediu explicação sobre processo de oferta pública,sim
-15-03-2026,e-mail,Alocação internacional,Cliente buscou alternativas para exposição ao dólar,sim
+15-03-2026,e-mail,Alocacao internacional,Cliente buscou alternativas para exposição ao dólar,sim
 22-03-2026,bater papo,Robôs de investimento,Cliente quis entender como funcionam algoritmos de alocação automática,sim
 03-11-2025,telefone,Fundos de investimento,Cliente perguntou sobre diferenças entre fundos multimercado e renda fixa,sim
 10-11-2025,bate papo,Previdência privada,Cliente solicitou simulação de aposentadoria complementar,sim
@@ -36,7 +36,7 @@ data,canal,tema,resumo,resolvido
 01-12-2025,telefone,Ações,Cliente pediu ajuda para interpretar o relatório de análise,sim
 05-12-2025,bate papo,ETF,Cliente perguntou sobre ETFs de renda fixa e exposição internacional,sim
 12-12-2025,e-mail,Criptomoedas,Cliente solicitou orientação sobre riscos e volatilidade,sim
-20-12-2025,bate papo,planejamento financeiro,Cliente revisou metas para 2026 e pediu ajustes no orçamento,sim
+20-12-2025,bate papo,Planejamento,Cliente revisou metas para 2026 e pediu ajustes no orçamento,sim
 04-01-2026,telefone,Tesouro IPCA,Cliente pediu simulação de rentabilidade para longo prazo,sim
 10-01-2026,e-mail,COE,Cliente buscou informações sobre proteção parcial do capital,sim
 18-01-2026,bate papo,Dividendos,Cliente quis entender calendário e periodicidade de pagamentos,sim
@@ -47,7 +47,7 @@ data,canal,tema,resumo,resolvido
 22-02-2026,e-mail,Transferência de custódia,Cliente solicitou orientação para mover ativos entre corretoras,sim
 01-03-2026,bate papo,Reserva de oportunidade,Cliente perguntou como montar caixa para aproveitar quedas do mercado,sim
 08-03-2026,telefone,IPOs,Cliente pediu explicação sobre processo de oferta pública,sim
-15-03-2026,e-mail,Alocação internacional,Cliente buscou alternativas para exposição ao dólar,sim
+15-03-2026,e-mail,Alocacao internacional,Cliente buscou alternativas para exposição ao dólar,sim
 22-03-2026,bate papo,Robôs de investimento,Cliente quis entender como funcionam algoritmos de alocação automática,sim
 29-03-2026,telefone,Tesouro Prefixado,Cliente pediu comparação entre títulos curtos e longos,sim
 05-04-2026,e-mail,Fundos de crédito privado,Cliente perguntou sobre riscos de liquidez,sim
@@ -60,7 +60,7 @@ data,canal,tema,resumo,resolvido
 24-05-2026,bate papo,Tesouro Selic,Cliente perguntou sobre liquidez diária e taxas,sim
 31-05-2026,telefone,CDB,Cliente pediu simulação para diferentes prazos e bancos,sim
 07-06-2026,e-mail,Atualização cadastral,Cliente atualizou endereço e documentos,sim
-14-06-2026,bate papo,planejamento tributário,Cliente quis entender impacto do IR sobre investimentos,sim
+14-06-2026,bate papo,Planejamento,Cliente quis entender impacto do IR sobre investimentos,sim
 21-06-2026,telefone,Fundos cambiais,Cliente perguntou sobre proteção contra desvalorização do real,sim
 28-06-2026,e-mail,COE,Cliente pediu comparação entre COE de alta e baixa volatilidade,sim
 05-07-2026,bate papo,FIIs,Cliente quis entender diferença entre tijolo e papel,sim
