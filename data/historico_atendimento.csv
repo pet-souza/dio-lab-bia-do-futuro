@@ -1,6 +1,80 @@
 data,canal,tema,resumo,resolvido
-2025-09-15,chat,CDB,Cliente perguntou sobre rentabilidade e prazos,sim
-2025-09-22,telefone,Problema no app,Erro ao visualizar extrato foi corrigido,sim
-2025-10-01,chat,Tesouro Selic,Cliente pediu explicação sobre o funcionamento do Tesouro Direto,sim
-2025-10-12,chat,Metas financeiras,Cliente acompanhou o progresso da reserva de emergência,sim
-2025-10-25,email,Atualização cadastral,Cliente atualizou e-mail e telefone,sim
+15-09-2025,chat,CDB,Cliente perguntou sobre rentabilidade e prazos,sim
+22-09-2025,telefone,Problema no app,Erro ao visualizar extrato foi corrigido,sim
+01-10-2025,chat,Tesouro Selic,Cliente pediu explicação sobre o funcionamento do Tesouro Direto,sim
+12-10-2025,chat,Metas financeiras,Cliente acompanhou o progresso da reserva de emergência,sim
+25-10-2025,email,Atualização cadastral,Cliente atualizou e-mail e telefone,sim
+15-09-2025,bater papo,CDB,Cliente falou sobre rentabilidade e prazos,sim
+22-09-2025,telefone,Problema no aplicativo, Erro ao visualizar o extrato foi corrigido,sim
+01-10-2025,bater papo,Tesouro Selic,Cliente pediu explicação sobre o funcionamento do Tesouro Direto,sim
+12-10-2025,bater papo,Metas financeiras,Cliente acompanhou o progresso da reserva de emergência,sim
+25-10-2025,e-mail,Atualização cadastral,Cliente atualizou e-mail e telefone,sim
+03-11-2025,telefone,Fundos de investimento,Cliente perguntou sobre diferenças entre fundos multimercado e renda fixa,sim
+10-11-2025,bater papo,Previdência privada,Cliente solicitou simulação de aposentadoria complementar,sim
+18-11-2025,e-mail,Carteira recomendada,Cliente pediu revisão da carteira após mudança no perfil de risco,sim
+22-11-2025,bater papo,LCI/LCA,Cliente quis entender isenção de IR e prazos de carência,sim
+01-12-2025,telefone,Ações,Cliente pediu ajuda para interpretar o relatório de análise,sim
+05-12-2025,bater papo,ETF,Cliente perguntou sobre ETFs de renda fixa e exposição internacional,sim
+12-12-2025,e-mail,Criptomoedas,Cliente solicitou orientação sobre riscos e volatilidade,sim
+20-12-2025,bater papo,Planejamento financeiro,Cliente revisou metas para 2026 e pediu ajustes no orçamento,sim
+04-01-2026,telefone,Tesouro IPCA,Cliente pediu simulação de rentabilidade para longo prazo,sim
+10-01-2026,e-mail,COE,Cliente buscou informações sobre proteção parcial do capital,sim
+18-01-2026,bater papo,Dividendos,Cliente quis entender calendário e periodicidade de pagamentos,sim
+25-01-2026,telefone,Renda fixa,Cliente pediu comparação entre CDBs prefixados e pós-fixados,sim
+02-02-2026,e-mail,Home broker,Cliente relatou dificuldade para enviar ordem de compra,sim
+09-02-2026,bater papo,Fundos imobiliários,Cliente pediu explicação sobre vacância e distribuição de rendimentos,sim
+15-02-2026,telefone,Perfil de investidor,Cliente atualizou questionário de suitability,sim
+22-02-2026,e-mail,Transferência de custódia,Cliente solicitou orientação para mover ativos entre corretoras,sim
+01-03-2026,bater papo,Reserva de oportunidade,Cliente perguntou como montar caixa para aproveitar quedas do mercado,sim
+08-03-2026,telefone,IPOs,Cliente pediu explicação sobre processo de oferta pública,sim
+15-03-2026,e-mail,Alocação internacional,Cliente buscou alternativas para exposição ao dólar,sim
+22-03-2026,bater papo,Robôs de investimento,Cliente quis entender como funcionam algoritmos de alocação automática,sim
+03-11-2025,telefone,Fundos de investimento,Cliente perguntou sobre diferenças entre fundos multimercado e renda fixa,sim
+10-11-2025,bate papo,Previdência privada,Cliente solicitou simulação de aposentadoria complementar,sim
+18-11-2025,e-mail,Carteira recomendada,Cliente pediu revisão da carteira após mudança no perfil de risco,sim
+22-11-2025,bate papo,LCI/LCA,Cliente quis entender isenção de IR e prazos de carência,sim
+01-12-2025,telefone,Ações,Cliente pediu ajuda para interpretar o relatório de análise,sim
+05-12-2025,bate papo,ETF,Cliente perguntou sobre ETFs de renda fixa e exposição internacional,sim
+12-12-2025,e-mail,Criptomoedas,Cliente solicitou orientação sobre riscos e volatilidade,sim
+20-12-2025,bate papo,Planejamento financeiro,Cliente revisou metas para 2026,e pediu ajustes no orçamento,sim
+04-01-2026,telefone,Tesouro IPCA,Cliente pediu simulação de rentabilidade para longo prazo,sim
+10-01-2026,e-mail,COE,Cliente buscou informações sobre proteção parcial do capital,sim
+18-01-2026,bate papo,Dividendos,Cliente quis entender calendário e periodicidade de pagamentos,sim
+25-01-2026,telefone,Renda fixa,Cliente pediu comparação entre CDBs prefixados e pós-fixados ,sim
+02-02-2026,e-mail,Home broker,Cliente relatou dificuldade para enviar ordem de compra,sim
+09-02-2026,bate papo,Fundos imobiliários,Cliente pediu explicação sobre vacância e distribuição de rendimentos,sim
+15-02-2026,telefone,Perfil de investidor,Cliente atualizou questionário de suitability,sim
+22-02-2026,e-mail,Transferência de custódia,Cliente solicitou orientação para mover ativos entre corretoras,sim
+01-03-2026,bate papo,Reserva de oportunidade,Cliente perguntou como montar caixa para aproveitar quedas do mercado,sim
+08-03-2026,telefone,IPOs,Cliente pediu explicação sobre processo de oferta pública,sim
+15-03-2026,e-mail,Alocação internacional,Cliente buscou alternativas para exposição ao dólar,sim
+22-03-2026,bate papo,Robôs de investimento,Cliente quis entender como funcionam algoritmos de alocação automática,sim
+29-03-2026,telefone,Tesouro Prefixado,Cliente pediu comparação entre títulos curtos e longos,sim
+05-04-2026,e-mail,Fundos de crédito privado,Cliente perguntou sobre riscos de liquidez,sim
+12-04-2026,bate papo,BDR,Cliente quis entender como funciona a exposição a empresas estrangeiras,sim
+19-04-2026,telefone,Carteira de ações,Cliente pediu ajuda para rebalancear após alta do mercado,sim
+26-04-2026,e-mail,Aplicativo,Cliente relatou lentidão ao consultar extrato de investimentos,sim
+03-05-2026,bate papo,Metas financeiras,Cliente revisou progresso da aposentadoria antecipada,sim
+10-05-2026,telefone,Câmbio,Cliente pediu explicação sobre variação cambial e impacto nos investimentos,sim
+17-05-2026,e-mail,Fundos ESG,Cliente buscou informações sobre critérios de sustentabilidade,sim
+24-05-2026,bate papo,Tesouro Selic,Cliente perguntou sobre liquidez diária e taxas,sim
+31-05-2026,telefone,CDB,Cliente pediu simulação para diferentes prazos e bancos,sim
+07-06-2026,e-mail,Atualização cadastral,Cliente atualizou endereço e documentos,sim
+14-06-2026,bate papo,Planejamento tributário,Cliente quis entender impacto do IR sobre investimentos,sim
+21-06-2026,telefone,Fundos cambiais,Cliente perguntou sobre proteção contra desvalorização do real,sim
+28-06-2026,e-mail,COE,Cliente pediu comparação entre COE de alta e baixa volatilidade,sim
+05-07-2026,bate papo,FIIs,Cliente quis entender diferença entre tijolo e papel,sim
+12-07-2026,telefone,Previdência privada,Cliente pediu revisão da estratégia de longo prazo,sim
+19-07-2026,e-mail,Home broker,Cliente solicitou ajuda para configurar alertas de preço,sim
+26-07-2026,bate papo,ETF internacional,Cliente perguntou sobre exposição ao S&P 500,sim
+02-08-2026,telefone,Tesouro IPCA,Cliente pediu orientação para aposentadoria com proteção inflacionária,sim
+09-08-2026,e-mail,Fundos multimercado,Cliente buscou informações sobre volatilidade recente,sim
+16-08-2026,bate papo,Criptomoedas,Cliente quis entender staking e rendimento,sim
+23-08-2026,telefone,Ações,Cliente pediu explicação sobre análise fundamentalista,sim
+30-08-2026,e-mail,Carteira recomendada,Cliente solicitou ajustes após mudança no perfil,sim
+06-09-2026,bate papo,LCI/LCA,Cliente perguntou sobre prazos de carência,sim
+13-09-2026,telefone,BDR,Cliente pediu ajuda para entender riscos internacionais,sim
+20-09-2026,e-mail,Fundos imobiliários,Cliente pediu análise de vacância de portfólio,sim
+27-09-2026,bate papo,Metas financeiras,Cliente revisou plano para compra de imóvel,sim
+04-10-2026,telefone,COE,Cliente quis entender cenários de retorno,sim
+11-10-2026,e-mail,Tesouro Selic,Cliente pediu ajuda para entender marcação a mercado,sim
