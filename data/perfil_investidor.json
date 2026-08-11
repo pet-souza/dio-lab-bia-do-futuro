@@ -21,3 +21,123 @@
     }
   ]
 }
+
+{
+  "nome": "Maria Oliveira",
+  "idade": 41,
+  "profissao": "Enfermeira",
+  "renda_mensal": 7200.00,
+  "perfil_investidor": "conservador",
+  "objetivo_principal": "Aumentar segurança financeira da família",
+  "patrimonio_total": 35000.00,
+  "reserva_emergencia_atual": 20000.00,
+  "aceita_risco": false,
+  "metas": [
+    {
+      "meta": "Completar reserva de emergência",
+      "valor_necessario": 30000.00,
+      "prazo": "2026-12"
+    },
+    {
+      "meta": "Educação dos filhos",
+      "valor_necessario": 80000.00,
+      "prazo": "2030-06"
+    }
+  ]
+}
+
+{
+  "nome": "Carlos Mendes",
+  "idade": 28,
+  "profissao": "Designer Gráfico",
+  "renda_mensal": 4500.00,
+  "perfil_investidor": "moderado",
+  "objetivo_principal": "Investir para aposentadoria",
+  "patrimonio_total": 18000.00,
+  "reserva_emergencia_atual": 6000.00,
+  "aceita_risco": true,
+  "metas": [
+    {
+      "meta": "Construir reserva de emergência",
+      "valor_necessario": 15000.00,
+      "prazo": "2027-03"
+    },
+    {
+      "meta": "Aposentadoria",
+      "valor_necessario": 500000.00,
+      "prazo": "2050-01"
+    }
+  ]
+}
+
+{
+  "nome": "Ana Beatriz Rocha",
+  "idade": 36,
+  "profissao": "Advogada",
+  "renda_mensal": 12000.00,
+  "perfil_investidor": "arrojado",
+  "objetivo_principal": "Crescimento acelerado do patrimônio",
+  "patrimonio_total": 95000.00,
+  "reserva_emergencia_atual": 30000.00,
+  "aceita_risco": true,
+  "metas": [
+    {
+      "meta": "Montar carteira internacional",
+      "valor_necessario": 50000.00,
+      "prazo": "2026-09"
+    },
+    {
+      "meta": "Aposentadoria antecipada",
+      "valor_necessario": 1500000.00,
+      "prazo": "2040-12"
+    }
+  ]
+}
+
+{
+  "nome": "Roberto Almeida",
+  "idade": 52,
+  "profissao": "Professor Universitário",
+  "renda_mensal": 9800.00,
+  "perfil_investidor": "moderado",
+  "objetivo_principal": "Gerar renda passiva",
+  "patrimonio_total": 210000.00,
+  "reserva_emergencia_atual": 40000.00,
+  "aceita_risco": false,
+  "metas": [
+    {
+      "meta": "Aumentar carteira de FIIs",
+      "valor_necessario": 100000.00,
+      "prazo": "2027-01"
+    },
+    {
+      "meta": "Aposentadoria",
+      "valor_necessario": 800000.00,
+      "prazo": "2035-06"
+    }
+  ]
+}
+
+{
+  "nome": "Júlia Santos",
+  "idade": 24,
+  "profissao": "Estudante de Engenharia",
+  "renda_mensal": 2200.00,
+  "perfil_investidor": "conservador",
+  "objetivo_principal": "Começar a investir com segurança",
+  "patrimonio_total": 5000.00,
+  "reserva_emergencia_atual": 2000.00,
+  "aceita_risco": false,
+  "metas": [
+    {
+      "meta": "Formar reserva de emergência",
+      "valor_necessario": 8000.00,
+      "prazo": "2026-03"
+    },
+    {
+      "meta": "Primeiro carro",
+      "valor_necessario": 30000.00,
+      "prazo": "2028-12"
+    }
+  ]
+}
