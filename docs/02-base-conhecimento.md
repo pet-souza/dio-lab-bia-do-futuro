@@ -96,13 +96,66 @@ transacoes = base.transacoes_cliente()
 
 > Mostre um exemplo de como os dados são formatados para o agente.
 
-Dados do Cliente:
-- Nome: João Silva
-- Perfil: Moderado
-- Saldo disponível: R$ 5.000
+```
+# Fontes de Pesquisa (JSON)
 
-Últimas transações:
-- 01/11: Supermercado - R$ 450
-- 03/11: Streaming - R$ 55
-...
+Nome: Banco Central do Brasil
+Sigla: BCB
+Tipo: regulador
+URL: https://www.bcb.gov.br
+Descrição: Informações sobre sistema financeiro, taxas, regulamentação e estatísticas econômicas
+
+Nome: Comissão de Valores Mobiliários
+Sigla: CVM
+Tipo: regulador
+URL: https://www.gov.br/cvm
+Descrição: Fiscalização e regulamentação do mercado de capitais, fundos, ações e ofertas públicas
+
+Nome: Superintendência de Seguros Privados
+Sigla: SUSEP
+Tipo: regulador
+URL: https://www.gov.br/susep
+Descrição: Regulação e supervisão de seguros, previdência privada aberta e capitalização
+ 
+
+# Histórico de Atendimento (CSV)
+
+15-09-2025,chat,CDB,Cliente perguntou sobre rentabilidade e prazos,sim
+22-09-2025,telefone,Problema no app,Erro ao visualizar extrato foi corrigido,sim
+04-10-2026,telefone,COE,Cliente quis entender cenários de retorno,sim
+11-10-2026,e-mail,Tesouro Selic,Cliente pediu ajuda para entender marcação a mercado,sim
+
+# Perfil do Investidor (JSON)
+
+Nome: Maria Oliveira
+Idade: 41
+Profissão: Enfermeira
+Renda Mensal: 7200.00
+Perfil do Investidor: conservador
+Objetivo Principal: Aumentar segurança financeira da família
+Patrimônio Total: 35000.00
+Reserva de Emergência Atual: 20000.00
+Aceita Risco: false
+Meta1: Completar reserva de emergência
+Valor Necessário: 30000.00
+Prazo: 2026-12
+Meta2: Educação dos filhos
+Valor Necessário: 80000.00
+Prazo: 2030-06 
+
+# Produtos Financeiros (JSON)
+
+Nome: Tesouro Selic
+Categoria: renda_fixa
+Risco: baixo
+Rentabilidade: 100% da Selic
+Aporte Mínimo: 30.00
+Indicado Para: Reserva de emergência e iniciantes
+
+# Transações (CSV)
+
+2025-10-01,Salário,receita,5000.00,entrada
+2025-10-02,Aluguel,moradia,1200.00,saida
+2025-10-03,Supermercado,alimentacao,450.00,saida
+2025-10-05,Netflix,lazer,55.90,saida
 ```
