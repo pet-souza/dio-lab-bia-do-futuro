@@ -9,3 +9,23 @@ data,descricao,categoria,valor,tipo
 2025-10-15,Conta de Luz,moradia,180.00,saida
 2025-10-20,Academia,saude,99.00,saida
 2025-10-25,Combustível,transporte,250.00,saida
+2025-10-06,Café,alimentacao,12.00,saida
+2025-10-08,Transferência recebida,receita,300.00,entrada
+2025-10-09,Padaria,alimentacao,34.50,saida
+2025-10-11,Manutenção do carro,transporte,480.00,saida
+2025-10-13,Plano de Saúde,saude,350.00,saida
+2025-10-14,Compra de roupas,lazer,220.00,saida
+2025-10-16,Salário extra,receita,800.00,entrada
+2025-10-17,Conta de Água,moradia,95.00,saida
+2025-10-18,Cinema,lazer,42.00,saida
+2025-10-19,Doação,doacao,50.00,saida
+2025-10-21,Pet Shop,animais,120.00,saida
+2025-10-22,Gasolina,transporte,230.00,saida
+2025-10-23,Freelance,receita,600.00,entrada
+2025-10-24,Material de limpeza,casal,40.00,saida
+2025-10-26,Restaurante,alimentacao,89.90,saida
+2025-10-27,Consulta médica,saude,200.00,saida
+2025-10-28,Internet,moradia,120.00,saida
+2025-10-29,Investimento CDB,investimento,300.00,saida
+2025-10-30,Transferência enviada,transferencia,150.00,saida
+2025-10-31,Bônus anual,receita,1500.00,entrada
