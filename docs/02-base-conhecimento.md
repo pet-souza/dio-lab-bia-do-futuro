@@ -96,6 +96,8 @@ transacoes = base.transacoes_cliente()
 
 > Mostre um exemplo de como os dados são formatados para o agente.
 
+O exemplo de contexto montado abaixo, tem como base os dados originais apresentados na base de conhecimento, mas apresenta apenas algumas informações sintetizadas deixando no conteúdo apenas as informações mais relevantes.
+
 ```
 # Fontes de Pesquisa (JSON)
 
