@@ -1,0 +1,72 @@
+[
+  {
+    "nome": "Banco Central do Brasil",
+    "sigla": "BCB",
+    "tipo": "regulador",
+    "url": "https://www.bcb.gov.br",
+    "descricao": "Informações sobre sistema financeiro, taxas, regulamentação e estatísticas econômicas."
+  },
+  {
+    "nome": "Comissão de Valores Mobiliários",
+    "sigla": "CVM",
+    "tipo": "regulador",
+    "url": "https://www.gov.br/cvm",
+    "descricao": "Fiscalização e regulamentação do mercado de capitais, fundos, ações e ofertas públicas."
+  },
+  {
+    "nome": "Superintendência de Seguros Privados",
+    "sigla": "SUSEP",
+    "tipo": "regulador",
+    "url": "https://www.gov.br/susep",
+    "descricao": "Regulação e supervisão de seguros, previdência privada aberta e capitalização."
+  },
+  {
+    "nome": "Superintendência Nacional de Previdência Complementar",
+    "sigla": "PREVIC",
+    "tipo": "regulador",
+    "url": "https://www.gov.br/previc",
+    "descricao": "Fiscalização de entidades de previdência complementar fechada (fundos de pensão)."
+  },
+  {
+    "nome": "Receita Federal do Brasil",
+    "sigla": "RFB",
+    "tipo": "tributacao",
+    "url": "https://www.gov.br/receitafederal",
+    "descricao": "Informações sobre impostos, declaração de IR, tributação de investimentos e normas fiscais."
+  },
+  {
+    "nome": "Anbima",
+    "sigla": "ANBIMA",
+    "tipo": "autorregulacao",
+    "url": "https://www.anbima.com.br",
+    "descricao": "Normas de autorregulação, dados de fundos, índices, certificações e materiais educacionais."
+  },
+  {
+    "nome": "B3 - Brasil Bolsa Balcão",
+    "sigla": "B3",
+    "tipo": "bolsa",
+    "url": "https://www.b3.com.br",
+    "descricao": "Informações sobre ações, FIIs, ETFs, derivativos, índices e boletins de mercado."
+  },
+  {
+    "nome": "Tesouro Direto",
+    "sigla": "TD",
+    "tipo": "investimentos_publicos",
+    "url": "https://www.tesourodireto.com.br",
+    "descricao": "Informações oficiais sobre títulos públicos, rentabilidade, taxas e simulações."
+  },
+  {
+    "nome": "FGC - Fundo Garantidor de Créditos",
+    "sigla": "FGC",
+    "tipo": "proteção",
+    "url": "https://www.fgc.org.br",
+    "descricao": "Informações sobre garantia de depósitos e investimentos como CDB, LCI, LCA e outros."
+  },
+  {
+    "nome": "Portal do Investidor",
+    "sigla": "CVM",
+    "tipo": "educacao",
+    "url": "https://www.investidor.gov.br",
+    "descricao": "Conteúdos educativos sobre investimentos, riscos, direitos e deveres do investidor."
+  }
+]
