@@ -50,11 +50,46 @@ with open("fontes_de_pesquisa.json", "r", encoding="utf-8") as f:
 ### Como os dados são usados no prompt?
 > Os dados vão no system prompt? São consultados dinamicamente?
 
-Para facilitar, podemos simplesmente injetar os dados com o prompt, garantindo que o agente tenha o melhor contexto possível. Lembrando que, em soluções mais robustas, o ideal é que essas informações sejam carregadas dinamicamente possibilitando o ganho que flexibilidade.
+Para facilitar, foi criada uma classe BaseConhecimento que carrega todas as informações na inicialização. Como está sendo usada uma base pequena de informações, esse comando será eficiente pois carregará todas as informações uma única vez, deixa a busca mais inteligente e executa consultas de forma instantânea.
 
 ```text
 # Exemplo de uso
+import pandas as pd
+import json
 
+class BaseConhecimento:
+    def __init__(self):
+        self.historico_atendimento = pd.read_csv("historico_atendimento.csv")
+        self.transacoes = pd.read_csv("transacoes.csv")
+        
+        with open("perfil_investidor.json", "r", encoding="utf-8") as f:
+            self.perfil_investidor = json.load(f)
+
+        with open("produtos_financeiros.json", "r", encoding="utf-8") as f:
+            self.produtos_financeiros = json.load(f)
+
+        with open("fontes_de_pesquisa.json", "r", encoding="utf-8") as f:
+            self.fontes_de_pesquisa = json.load(f)
+
+    # Exemplos de métodos úteis
+    def buscar_produto(self, nome):
+        return next((p for p in self.produtos_financeiros if p["nome"] == nome), None)
+
+    def buscar_fontes(self):
+        return self.fontes_de_pesquisa
+
+    def historico_cliente(self):
+        return self.historico_atendimento
+
+    def transacoes_cliente(self):
+        return self.transacoes
+
+# Execução no Agente
+base = BaseConhecimento()
+
+produto = base.buscar_produto("Tesouro Selic")
+fontes = base.buscar_fontes()
+transacoes = base.transacoes_cliente()
 ```
 
 ## Exemplo de Contexto Montado
