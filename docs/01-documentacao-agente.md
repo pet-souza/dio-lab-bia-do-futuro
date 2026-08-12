@@ -10,7 +10,7 @@ Um agente financeiro inteligente que analisa o perfil, objetivos, situação fin
 ### Solução
 > Como o agente resolve esse problema de forma proativa?
 
-O agente atuará de forma proativa ao realizar um diagnóstico inicial da situação financeira, dos objetivos e das necessidades do usuário, utilizando essas informações para apresentar, de forma educativa e imparcial, diferentes caminhos e estratégias que podem ser considerados. Por meio de explicações, comparações e simulações, o agente ajuda o investidor ou poupador a compreender conceitos financeiros, características, riscos e possíveis alternativas, permitindo que reflita sobre suas opções antes de tomar uma decisão. 
+O agente atuará de forma proativa realizando um diagnóstico inicial da situação financeira, dos objetivos e das necessidades do usuário, utilizando essas informações para apresentar, de forma educativa e imparcial, diferentes caminhos e estratégias que podem ser considerados. Por meio de explicações, comparações e simulações, o agente ajudará o investidor a compreender conceitos financeiros, características, riscos e possíveis alternativas, permitindo que reflita sobre suas opções antes de tomar uma decisão. 
 
 O objetivo não é substituir a atuação de um profissional certificado ou habilitado, mas preparar melhor o usuário para essa interação. Após compreender as possibilidades, o investidor poderá buscar orientação profissional para validar, adaptar ou reorganizar a estratégia de investimento de acordo com suas necessidades e circunstâncias específicas.
 
