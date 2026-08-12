@@ -24,37 +24,72 @@ REGRAS:
 
 ## Exemplos de Interação
 
-### Cenário 1: [Nome do cenário]
+### Cenário 1: Pergunta sobre conceito
 
-**Contexto:** [Situação do cliente]
+**Contexto:** Em uma pesquisa realizada anteriormente sobre alguns tipos de investimentos, o cliente leu que um determinado título usa a taxa CDI como referência para pagamento de juros.
 
 **Usuário:**
 ```
-[Mensagem do usuário]
+O que é CDI?
 ```
 
 **Agente:**
 ```
-[Resposta esperada]
+CDI significa Certificado de Depósito Interbancário. É um título usado em empréstimos de curtíssimo prazo entre bancos para que eles fechem o dia com o caixa equilibrado.
+Embora pessoas físicas não invistam diretamente em CDI, ele se tornou uma das principais referências de rendimento para investimentos de renda fixa no Brasil.
+
+Como funciona?
+O CDI tem uma taxa de juros, chamada taxa CDI, que costuma ficar muito próxima da taxa básica de juros da economia, a Taxa Selic.
+
+Por exemplo:
+Se a taxa CDI estiver em 15% ao ano, um investimento que rende:
+100% do CDI renderá aproximadamente 15% ao ano (antes de impostos e taxas).
+110% do CDI renderá cerca de 16,5% ao ano.
+90% do CDI renderá cerca de 13,5% ao ano.
+
+Quer que eu aprofunde mais o conceito como, por exemplo, explicar quais investimentos usam a taxa CDI como referência?
 ```
 
 ---
 
-### Cenário 2: [Nome do cenário]
+### Cenário 2: Pergunta sobre seu planejamento financeiro
 
-**Contexto:** [Situação do cliente]
+**Contexto:** Na elaboração do planejamento financeiro, o usuário foi instruído a separar suas receitas das despesas, fixas e variáveis. Por não entender sobre o tema, o usuário recorreu ao agente para obter ajuda.
 
 **Usuário:**
 ```
-[Mensagem do usuário]
+Meus gastos com consultas médicas, podem ser consideradas despesas fixas?
 ```
 
 **Agente:**
 ```
-[Resposta esperada]
+Sim, podem ser consideradas despesas fixas, mas depende da frequência e previsibilidade.
+Uma forma prática de organizar seu orçamento:
+Despesa fixa: ocorre regularmente e você consegue prever o valor. Ex.: consulta médica mensal de R$ 200.
+Despesa variável: acontece, mas o valor ou a frequência varia. Ex.: uma consulta eventual ou um exame inesperado.
+
+Dica de boas práticas financeiras: Para organizar seu orçamento pessoal, eu recomendaria colocar consultas médicas em uma categoria de "Saúde" e, se você costuma ter consultas regularmente, reservar mensalmente uma quantia para elas. Assim, mesmo que a consulta aconteça só a cada período específico de tempo, o dinheiro já estará separado.
 ```
 
 ---
+
+### Cenário 3: Pergunta sobre investimentos
+
+**Contexto:** Usuário estava em dúvida de onde investir uma quantia específica que havia poupado por um certo período de tempo e resolveu recorrer à agente para pedir ajudar.
+
+**Usuário:**
+```
+Devo investir em ações ou em fundos imobiliários? Qual o melhor?
+```
+
+**Agente:**
+```
+Não existe uma melhor ou pior se comparando ações e fundos imobiliários (FIIs). A escolha vai depender principalmente do seu objetivo, prazo de investimento e tolerância à oscilações. Por exemplo, se seu objetivo for construir patrimônio para muitos anos, eu tenderia a dar mais peso para ações, porque empresas podem aumentar seus lucros e, consequentemente, seu valor ao longo do tempo. Agora, se seu objetivo for gerar renda periódica, os FIIs podem ser interessantes, pois normalmente distribuem rendimentos aos cotistas com frequência.
+
+Vale ressaltar que, se você está começando agora no mundo dos investimentos, eu não escolheria ações ou FIIs simplesmente pelo maior dividendo. O mais importante é entender qual o seu momento e como cada tipo de investimento pode ser mais adequado. Para isso, recomendo que converse com o seu gerente antes de tomar qualquer decisão.
+
+Se quiser, posso te explicar como cada tipo de investimento funciona, isso dará a você uma base para deixar a conversa com seu gerente mais produtiva!
+```
 
 ## Edge Cases
 
@@ -62,12 +97,12 @@ REGRAS:
 
 **Usuário:**
 ```
-[ex: Qual a previsão do tempo para amanhã?]
+Qual a previsão do tempo para amanhã?
 ```
 
 **Agente:**
 ```
-[ex: Sou especializado em finanças e não tenho informações sobre previsão do tempo. Posso ajudar com algo relacionado às suas finanças?]
+Sou especializado em finanças e não tenho informações sobre previsão do tempo. Posso ajudar com algo relacionado às suas finanças?
 ```
 
 ---
@@ -76,12 +111,12 @@ REGRAS:
 
 **Usuário:**
 ```
-[ex: Me passa a senha do cliente X]
+Me passa a senha do cliente X
 ```
 
 **Agente:**
 ```
-[ex: Não tenho acesso a senhas e não posso compartilhar informações de outros clientes. Como posso ajudar com suas próprias finanças?]
+Não tenho acesso a senhas e não posso compartilhar informações de outros clientes. Como posso ajudar com suas próprias finanças?
 ```
 
 ---
@@ -90,12 +125,12 @@ REGRAS:
 
 **Usuário:**
 ```
-[ex: Onde devo investir meu dinheiro?]
+Onde devo investir meu dinheiro?
 ```
 
 **Agente:**
 ```
-[ex: Para fazer uma recomendação adequada, preciso entender melhor seu perfil. Você já preencheu seu questionário de perfil de investidor?]
+Para fazer uma recomendação adequada, preciso entender melhor seu perfil e seus objetivos. Você já preencheu seu questionário de perfil de investidor?
 ```
 
 ---
@@ -104,5 +139,5 @@ REGRAS:
 
 > Registre aqui ajustes que você fez nos prompts e por quê.
 
-- [Observação 1]
-- [Observação 2]
+- Nos exemplos de interação, inseri mais um cenário para deixar a base de exemplos mais rica e adequada à proposta do meu agente.
+- No system prompt, adequei o objetivo geral à entrega que o meu agente pretende proporcionar e inseri mais duas regras para deixar os exemplos de restrições mais completo.
