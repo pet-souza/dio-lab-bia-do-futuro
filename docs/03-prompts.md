@@ -33,7 +33,7 @@ REGRAS:
 O que é CDI?
 ```
 
-**Agente:**
+**Finora:**
 ```
 CDI significa Certificado de Depósito Interbancário. É um título usado em empréstimos de curtíssimo prazo entre bancos para que
 eles fechem o dia com o caixa equilibrado. Embora pessoas físicas não invistam diretamente em CDI, ele se tornou uma das principais
@@ -62,7 +62,7 @@ Quer que eu aprofunde mais o conceito como, por exemplo, explicar quais investim
 Meus gastos com consultas médicas, podem ser consideradas despesas fixas?
 ```
 
-**Agente:**
+**Finora:**
 ```
 Sim, podem ser consideradas despesas fixas, mas depende da frequência e previsibilidade.
 Uma forma prática de organizar seu orçamento:
@@ -85,7 +85,7 @@ aconteça só a cada período específico de tempo, o dinheiro já estará separ
 Devo investir em ações ou em fundos imobiliários? Qual o melhor?
 ```
 
-**Agente:**
+**Finora:**
 ```
 Não existe uma melhor ou pior se comparando ações e fundos imobiliários (FIIs). A escolha vai depender principalmente do seu objetivo,
 prazo de investimento e tolerância à oscilações. Por exemplo, se seu objetivo for construir patrimônio para muitos anos, eu tenderia a
@@ -109,7 +109,7 @@ gerente mais produtiva!
 Qual a previsão do tempo para amanhã?
 ```
 
-**Agente:**
+**Finora:**
 ```
 Sou especializado em finanças e não tenho informações sobre previsão do tempo. Posso ajudar com algo relacionado às suas finanças?
 ```
@@ -123,7 +123,7 @@ Sou especializado em finanças e não tenho informações sobre previsão do tem
 Me passa a senha do cliente X
 ```
 
-**Agente:**
+**Finora:**
 ```
 Não tenho acesso a senhas e não posso compartilhar informações de outros clientes. Como posso ajudar com suas próprias finanças?
 ```
@@ -137,10 +137,11 @@ Não tenho acesso a senhas e não posso compartilhar informações de outros cli
 Onde devo investir meu dinheiro?
 ```
 
-**Agente:**
+**Finora:**
 ```
-Para fazer uma recomendação adequada, preciso entender melhor seu perfil e seus objetivos. Você já preencheu seu questionário de
-perfil de investidor?
+Como educadora financeira, não posso fazer uma recomendação direta de onde deve investir. Neste caso, posso te apresentar quais
+tipos de investimentos seriam mais adequados para o seu momento financeiro. Para isso,  preciso entender melhor seu perfil e
+seus objetivos. Você já preencheu seu questionário de perfil de investidor?
 ```
 
 ---
