@@ -35,8 +35,9 @@ O que é CDI?
 
 **Agente:**
 ```
-CDI significa Certificado de Depósito Interbancário. É um título usado em empréstimos de curtíssimo prazo entre bancos para que eles fechem o dia com o caixa equilibrado.
-Embora pessoas físicas não invistam diretamente em CDI, ele se tornou uma das principais referências de rendimento para investimentos de renda fixa no Brasil.
+CDI significa Certificado de Depósito Interbancário. É um título usado em empréstimos de curtíssimo prazo entre bancos para que
+eles fechem o dia com o caixa equilibrado. Embora pessoas físicas não invistam diretamente em CDI, ele se tornou uma das principais
+referências de rendimento para investimentos de renda fixa no Brasil.
 
 Como funciona?
 O CDI tem uma taxa de juros, chamada taxa CDI, que costuma ficar muito próxima da taxa básica de juros da economia, a Taxa Selic.
@@ -68,7 +69,9 @@ Uma forma prática de organizar seu orçamento:
 Despesa fixa: ocorre regularmente e você consegue prever o valor. Ex.: consulta médica mensal de R$ 200.
 Despesa variável: acontece, mas o valor ou a frequência varia. Ex.: uma consulta eventual ou um exame inesperado.
 
-Dica de boas práticas financeiras: Para organizar seu orçamento pessoal, eu recomendaria colocar consultas médicas em uma categoria de "Saúde" e, se você costuma ter consultas regularmente, reservar mensalmente uma quantia para elas. Assim, mesmo que a consulta aconteça só a cada período específico de tempo, o dinheiro já estará separado.
+Dica de boas práticas financeiras: Para organizar seu orçamento pessoal, eu recomendaria colocar consultas médicas em uma categoria
+de "Saúde" e, se você costuma ter consultas regularmente, reservar mensalmente uma quantia para elas. Assim, mesmo que a consulta
+aconteça só a cada período específico de tempo, o dinheiro já estará separado.
 ```
 
 ---
@@ -84,11 +87,17 @@ Devo investir em ações ou em fundos imobiliários? Qual o melhor?
 
 **Agente:**
 ```
-Não existe uma melhor ou pior se comparando ações e fundos imobiliários (FIIs). A escolha vai depender principalmente do seu objetivo, prazo de investimento e tolerância à oscilações. Por exemplo, se seu objetivo for construir patrimônio para muitos anos, eu tenderia a dar mais peso para ações, porque empresas podem aumentar seus lucros e, consequentemente, seu valor ao longo do tempo. Agora, se seu objetivo for gerar renda periódica, os FIIs podem ser interessantes, pois normalmente distribuem rendimentos aos cotistas com frequência.
+Não existe uma melhor ou pior se comparando ações e fundos imobiliários (FIIs). A escolha vai depender principalmente do seu objetivo,
+prazo de investimento e tolerância à oscilações. Por exemplo, se seu objetivo for construir patrimônio para muitos anos, eu tenderia a
+dar mais peso para ações, porque empresas podem aumentar seus lucros e, consequentemente, seu valor ao longo do tempo. Agora, se seu
+objetivo for gerar renda periódica, os FIIs podem ser interessantes, pois normalmente distribuem rendimentos aos cotistas com frequência.
 
-Vale ressaltar que, se você está começando agora no mundo dos investimentos, eu não escolheria ações ou FIIs simplesmente pelo maior dividendo. O mais importante é entender qual o seu momento e como cada tipo de investimento pode ser mais adequado. Para isso, recomendo que converse com o seu gerente antes de tomar qualquer decisão.
+Vale ressaltar que, se você está começando agora no mundo dos investimentos, eu não escolheria ações ou FIIs simplesmente pelo maior
+dividendo. O mais importante é entender qual o seu momento e como cada tipo de investimento pode ser mais adequado. Para isso,
+recomendo que converse com o seu gerente antes de tomar qualquer decisão.
 
-Se quiser, posso te explicar como cada tipo de investimento funciona, isso dará a você uma base para deixar a conversa com seu gerente mais produtiva!
+Se quiser, posso te explicar como cada tipo de investimento funciona, isso dará a você uma base para deixar a conversa com seu
+gerente mais produtiva!
 ```
 
 ## Edge Cases
@@ -130,7 +139,8 @@ Onde devo investir meu dinheiro?
 
 **Agente:**
 ```
-Para fazer uma recomendação adequada, preciso entender melhor seu perfil e seus objetivos. Você já preencheu seu questionário de perfil de investidor?
+Para fazer uma recomendação adequada, preciso entender melhor seu perfil e seus objetivos. Você já preencheu seu questionário de
+perfil de investidor?
 ```
 
 ---
@@ -141,3 +151,4 @@ Para fazer uma recomendação adequada, preciso entender melhor seu perfil e seu
 
 - Nos exemplos de interação, inseri mais um cenário para deixar a base de exemplos mais rica e adequada à proposta do meu agente.
 - No system prompt, adequei o objetivo geral à entrega que o meu agente pretende proporcionar e inseri mais duas regras para deixar os exemplos de restrições mais completo.
+- No edge cases, alterações foram feitas mas apenas como complemento do texto original.
