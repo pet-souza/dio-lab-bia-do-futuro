@@ -32,19 +32,11 @@ Existem duas possibilidades de carregamento dos arquivos. A primeira, seria inje
 import pandas as pd
 import json
 
-# Carregar arquivos CSV
-historico_atendimento = pd.read_csv("historico_atendimento.csv")
-transacoes = pd.read_csv("transacoes.csv")
-
-# Carregar arquivos JSON
-with open("perfil_investidor.json", "r", encoding="utf-8") as f:
-    perfil_investidor = json.load(f)
-
-with open("produtos_financeiros.json", "r", encoding="utf-8") as f:
-    produtos_financeiros = json.load(f)
-
-with open("fontes_de_pesquisa.json", "r", encoding="utf-8") as f:
-    fontes_de_pesquisa = json.load(f)
+perfil = json.load(open('./data_agente/perfil_investidor.json'))
+transacoes = pd.read_csv('./data_agente/transacoes.csv')
+historico = pd.read_csv('./data_agente/historico_atendimento.csv')
+produtos = json.load(open('./data_agente/produtos_financeiros.json'))
+fontes = json.load(open('./data_agente/fontes_de_pesquisa.json'))
 ```
 
 ### Como os dados são usados no prompt?
